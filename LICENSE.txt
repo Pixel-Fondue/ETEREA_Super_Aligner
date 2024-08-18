@@ -1,32 +1,18 @@
 
 ETEREA KITS LICENSE AND LEGAL STUFF
-
 These kits were originally created and/or compiled by Cristóbal Vila. In several cases they incorporate scripts made by different Modo users that they themselves shared in the official forum of the Modo app, and would have disappeared in the depths of the underworld if they had not been compiled and assigned a friendly interface, with buttons, icons, palettes, etc.
-
 Other free and old scripts, such as several of Seneca Menard, were also incorporated or adapted to a greater or lesser extent.
-
 And finally, various scripts were directly coded by Cristóbal Vila, but almost always with the invaluable help of other members of the community, with much more programming knowledge.
-
 ----------------------------
-
 In each of the scripts, in the Python or Perl file, the original author(s) is always mentioned in the header.
-
 ----------------------------
-
 You can use the software for your work, personal or commercial, you can modify/fix/update it for your own use, learn from it and freely share them, etc. BUT PLEASE, INCLUDE THIS TEXT AND DO NOT SELL. I personally want these kits, and their possible derivatives, to always remain free/gratis to the Modo community.
-
 And sorry: don't expect me to modify or update these scripts. I have been using them for many years, since I started using Modo in 2007 and they have served me and many other users well. But life goes on and I am slowly disassociating myself from this application.
-
 ----------------------------
-
 AND ALSO, PLEASE, ALWAYS KEEP THE REFERENCE TO THE ORIGINAL CREATOR/COLLECTOR:
 Cristóbal Vila
 https://etereaestudios.com/resources/modo-kits/
-
 ----------------------------
-
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 ----------------------------
-
 Cristóbal Vila - Zaragoza, Spain - August 2024
